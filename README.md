@@ -12,7 +12,7 @@ CLI Boilerplate Generator is a program that generates a friendly CLI boilerplate
 
 ## Usage
 
-	cli-boilerplate.py [_h] [_force] name args [args ...]
+	cli-boilerplate-generator.py [_h] [_force] name args [args ...]
 
 ## Example
 
